@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { PrivateAuctionContract } from './PrivateAuctionContract.js';
 
-export { Add };
+export { PrivateAuctionContract };
